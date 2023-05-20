@@ -6,4 +6,4 @@ height = float(input("Height(m): "))
 
 bmi = (weight / (height ** 2))
 
-print(f"Body Mass Index (kg/m^2): {round(bmi)}")
+print(f"Body Mass Index (kg/m^2): {round(bmi)}") #round bmi to a whole number
