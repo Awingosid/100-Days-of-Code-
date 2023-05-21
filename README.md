@@ -15,4 +15,10 @@ operations
 type conversion
 f-strings
 
+DAY 3 OF 100 DAYS OF CODE
+conditional statements
+logical operators
+code blocks
+scope
+
 
