@@ -21,4 +21,6 @@ logical operators
 code blocks
 scope
 
-
+DAY 4 OF 100 DAYS OF CODE
+randomization
+python lists
