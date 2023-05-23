@@ -24,3 +24,8 @@ scope
 DAY 4 OF 100 DAYS OF CODE
 randomization
 python lists
+
+DAY 5 OF 100 DAYS OF CODE
+for loops 
+Range
+Code blocks
